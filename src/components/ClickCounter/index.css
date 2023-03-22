@@ -1,0 +1,30 @@
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: #2d3a35;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #2d3a35;
+  text-align: center;
+}
+.button {
+  font-size: 14px;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  border-width: 0px;
+  background-color: #007bff;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.span {
+  color: #c20a72;
+}
